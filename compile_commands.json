@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/jaunt/users/alfred/dev/studio/cpp/jpointcloud",
+  "command": "/usr/local/bin/g++     -lpthread -pthread -g3 -gdwarf-2 -I/jaunt/users/alfred/dev/pcl/include/pcl-1.8 -I/jaunt/users/alfred/dev/studio/cpp/jpointcloud/include/eigen3 -I/jaunt/users/alfred/dev/studio/cpp/jpointcloud/include    -o CMakeFiles/jpointcloud.dir/src/main.cpp.o -c /jaunt/users/alfred/dev/studio/cpp/jpointcloud/src/main.cpp",
+  "file": "/jaunt/users/alfred/dev/studio/cpp/jpointcloud/src/main.cpp"
+}
+]

@@ -1,0 +1,6 @@
+Scanning dependencies of target jpointcloud
+[100%] Building CXX object CMakeFiles/jpointcloud.dir/src/main.cpp.o
+Linking CXX executable linux/bin/jpointcloud
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/../../../../lib64/libpthread.a(libpthread.o): In function `sem_open':
+(.text+0x77cd): warning: the use of `mktemp' is dangerous, better use `mkstemp'
+[100%] Built target jpointcloud

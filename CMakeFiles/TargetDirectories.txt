@@ -1,0 +1,3 @@
+/jaunt/users/alfred/dev/studio/cpp/jpointcloud/CMakeFiles/rebuild_cache.dir
+/jaunt/users/alfred/dev/studio/cpp/jpointcloud/CMakeFiles/edit_cache.dir
+/jaunt/users/alfred/dev/studio/cpp/jpointcloud/CMakeFiles/jpointcloud.dir
